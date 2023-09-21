@@ -1,0 +1,212 @@
+{
+  "status": "ok",
+  "totalResults": 31,
+  "articles": [
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Alice Newcome-Beill",
+      "title": "New Logitech streaming accessories coming later this month",
+      "description": "The Litra Beam LX, Yeti Orb, and Yeti GX join Logitech’s streaming lineup",
+      "url": "https://www.polygon.com/gaming/2023/9/19/23879294/logitech-microphone-streaming-accessories-announcement",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/UlCGW1o6IoAO2tBWLF6pqjd130k=/0x18:2319x1232/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24932583/Screenshot_2023_09_18_161806.png",
+      "publishedAt": "2023-09-19T14:50:41Z",
+      "content": "Hot on the heels of a new lineup of gaming peripherals, Logitech is expanding its portfolio of gamer-ready streaming accessories with the Yeti Orb and Yeti GX microphones, in addition to the Litra Be… [+2222 chars]"
+    },
+    {
+      "source": { "id": "der-tagesspiegel", "name": "Der Tagesspiegel" },
+      "author": "Der Tagesspiegel",
+      "title": "Nach Training in Deutschland: Ukraine verweigert Panzer-Lieferung – weil diese verschlissen sind",
+      "description": "Kiew lehnt die Einfuhr der Leopard-1-Panzer ab, weil es selbst keine geschulten Techniker und Ersatzteile hat. Ein ähnliches Problem gab es schon mit der letzten Tranche.",
+      "url": "https://www.tagesspiegel.de/internationales/nach-training-in-deutschland-ukraine-verweigert-panzer-lieferung--weil-diese-verschlissen-sind-10494937.html",
+      "urlToImage": "https://www.tagesspiegel.de/images/file-photo-lieutenant-general-andreas-marlow-head-of-the-german-elements-mn-corpsbasic-military-organisation-at-strausberg-speaks-next-to-a-leopard-1a5-main-battle-tank/alternates/BASE_16_9_W1400/file-photo-lieutenant-general-andreas-marlow-head-of-the-german-elements-mn-corpsbasic-military-organisation-at-strausberg-speaks-next-to-a-leopard-1a5-main-battle-tank.jpeg",
+      "publishedAt": "2023-09-19T14:43:51+00:00",
+      "content": "Nach Informationen des Spiegel gibt es erhebliche Probleme bei der Lieferung von deutschen Leopard-1-Panzern. Demnach habe die ukrainische Regierung vor wenigen Tagen sogar die Einfuhr von zehn Panze… [+973 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Ron Miller",
+      "title": "New SambaNova chip designed to handle 5 trillion parameter model | TechCrunch",
+      "description": "SambaNova, a full stack AI subscription service, announced a new chip today that it claims can handle 5 trillion parameters more efficiently.",
+      "url": "https://techcrunch.com/2023/09/19/new-sambanova-chip-designed-to-handle-5-trillion-parameter-model/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/SambaNova-SN40L.png?resize=1200,675",
+      "publishedAt": "2023-09-19T14:31:15Z",
+      "content": "Ever since OpenAI released ChatGPT at the end of last year, terms like generative AI and large language models have been on everyones lips. But when you dig beneath the hype, large language models ge… [+2586 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Sarah Perez",
+      "title": "News aggregator app SmartNews' latest feature aims to tackle doomscrolling | TechCrunch",
+      "description": "News aggregator SmartNews is today launching a new feature that it hopes will help to combat the anxiety associated with regularly consuming negative news",
+      "url": "https://techcrunch.com/2023/09/19/news-aggregator-app-smartnews-latest-feature-aims-to-tackle-doomscrolling/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2019/09/SmartNewsSlider-1.jpg?resize=1200,800",
+      "publishedAt": "2023-09-19T14:29:09Z",
+      "content": "News aggregator SmartNews is today launching a new feature that it hopes will help to combat the anxiety associated with regularly consuming negative news — something often referred to as “doomscroll… [+3618 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Ivan Mehta",
+      "title": "Unite for Mac releases a new version to turn website into web apps | TechCrunch",
+      "description": "Unite, which offers similar functionality, has released a new version with powerful customization options.",
+      "url": "https://techcrunch.com/2023/09/19/unite-for-mac-releases-a-new-version-to-turn-website-into-web-apps/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/Unite-5-feat.jpg?resize=1200,675",
+      "publishedAt": "2023-09-19T14:03:43Z",
+      "content": "Apple announced macOS Sonoma at the Worldwide Developer Conference (WWDC) earlier this year with the ability to turn websites into “web apps” and add them to the dock. In response, Unite, which offer… [+2045 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Aria Alamalhodaei",
+      "title": "Rocket Lab’s Electron suffers first failure in over two years | TechCrunch",
+      "description": "A Rocket Lab Electron rocket suffered its first failure in over two years, with the mission failing to deploy a satellite for Capella Space.",
+      "url": "https://techcrunch.com/2023/09/19/rocket-labs-electron-suffers-first-failure-in-over-two-years/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/rocket-lab-capella.jpeg?resize=1200,671",
+      "publishedAt": "2023-09-19T13:51:30Z",
+      "content": "Rocket Labs 41st Electron mission on behalf of customer Capella Space ended in failure early Tuesday, with issues abruptly appearing after stage separation around 2-and-a-half minutes after launch.\r\n… [+1453 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Sarah Perez",
+      "title": "Amazon's new Just Walk Out cashierless checkout system uses RFID tags to track apparel purchases | TechCrunch",
+      "description": "Amazon today introduced a new version of its Just Walk Out retail technology that allows customers to skip the cashier lines when they make a purchase by",
+      "url": "https://techcrunch.com/2023/09/19/amazons-new-just-walk-out-cashierless-checkout-system-uses-rfid-tags-to-track-apparel-purchases/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/just-walk-out-sports.jpeg?resize=1200,675",
+      "publishedAt": "2023-09-19T13:51:30Z",
+      "content": "Amazon today introduced a new version of its Just Walk Out retail technology that allows customers to skip the cashier lines when they make a purchase by having their payment card automatically charg… [+3192 chars]"
+    },
+    {
+      "source": { "id": "engadget", "name": "Engadget" },
+      "author": "Sarah Fielding",
+      "title": "Amazon adds RFID support to Just Walk Out stores for 'softline' products like clothing",
+      "description": "The technology is rolling out in select sports stadiums.",
+      "url": "https://www.engadget.com/amazon-adds-rfid-support-to-just-walk-out-stores-for-softline-products-like-clothing-130047415.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/unsa_AG8HJHuIYJIx6WLww--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02Mjk-/https://s.yimg.com/os/creatr-images/2019-01/b8ad3de0-1837-11e9-bf7f-bc0dd6e3a7f0",
+      "publishedAt": "2023-09-19T13:05:47Z",
+      "content": "Between its drone delivery attempts and its Just Walk Out tech removing the need for cashiers, Amazon is trying to make the buying experience as quick and minimally interactive with others as it can.… [+1798 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Matthew Panzarino",
+      "title": "Apple’s iPhone 15 Pro Max goes to Disneyland | TechCrunch",
+      "description": "Since 2014, I’ve been reviewing Apple’s latest iPhones at Disneyland. The rationale was, and is, simple: Instead of lab tests, do my best to get a feeling",
+      "url": "https://techcrunch.com/2023/09/19/apples-iphone-15-pro-max-goes-to-disneyland/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/1-e1695088502767.jpeg?w=1200",
+      "publishedAt": "2023-09-19T13:05:10Z",
+      "content": "Since 2014, Ive been reviewing Apples latest iPhones at Disneyland. The rationale was, and is, simple: Instead of lab tests, do my best to get a feeling for what these devices will be like to use for… [+25049 chars]"
+    },
+    {
+      "source": { "id": null, "name": "[Removed]" },
+      "author": null,
+      "title": "[Removed]",
+      "description": "[Removed]",
+      "url": "https://removed.com",
+      "urlToImage": null,
+      "publishedAt": "1970-01-01T00:00:00Z",
+      "content": "[Removed]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Jean-François Morizur",
+      "title": "How deep tech founders can secure early-stage fundraising in a downturn | TechCrunch",
+      "description": "Deep tech companies, especially in the early stages in difficult funding environments, should focus first and foremost on closing the deal.",
+      "url": "https://techcrunch.com/2023/09/19/tips-for-deep-tech-founders-fundraising-in-a-downturn/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-1288314445.jpg?resize=1200,800",
+      "publishedAt": "2023-09-19T04:18:18Z",
+      "content": "The funding environment in 2013, when we at Cailabs were looking for early-stage investment, was a tough one. According to some metrics, its much like the one we find ourselves in today.\r\nStartup fou… [+2523 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Jacquelyn Melinek",
+      "title": "8 web3 gaming experts discuss hurdles and opportunities in the road to wider adoption | TechCrunch",
+      "description": "What will it take to spur more mainstream gamers to pick up and play web3 games? We asked eight web3 gaming experts to find out.",
+      "url": "https://techcrunch.com/2023/09/19/web3-gaming-investor-survey/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/09/GettyImages-157437668.jpg?resize=1200,800",
+      "publishedAt": "2023-09-18T20:38:05Z",
+      "content": "The web3 gaming world has been a work in progress for a handful of years now. Studios in the space have found it difficult to gain Web 2 gamers trust and get over the image issues resulting from the … [+8832 chars]"
+    },
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Nicole Carpenter",
+      "title": "Unity’s unpopular install fee will change, after a week of anger",
+      "description": "Unity Technologies said it’ll make changes to its unpopular install-based runtime fee that united developers in their hatred of the new policy.",
+      "url": "https://www.polygon.com/23878521/unity-install-fee-pricing-change",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/YVd9XMbxKBv1hMnKcNILsch0Biw=/0x0:2150x1126/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24931244/unity.png",
+      "publishedAt": "2023-09-18T13:59:16Z",
+      "content": "Unity Technologies will make changes to its wildly unpopular install-based fee policy, the company said Sunday in a post on the platform formerly known as Twitter. The update comes days after Unity a… [+1761 chars]"
+    },
+    {
+      "source": { "id": "recode", "name": "Recode" },
+      "author": "Whizy Kim",
+      "title": "iOS 17 update: What are the downsides of using Apple Pay?",
+      "description": "Apple Pay makes it painless to spend money. That’s great for tech companies, and worrying for consumers.",
+      "url": "https://www.vox.com/money/23875697/ios-17-apple-pay-overspending-tap-to-pay-tech",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/x7H5mlSBIQA4vexj5WZt149wYx8=/0x0:4099x2146/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24925745/AP23150539905149__1_.jpg",
+      "publishedAt": "2023-09-18T11:00:00Z",
+      "content": "Apple released iOS 17 on September 18 and now that the new operating system is here, you can probably leave your wallet at home. \r\nThe latest version of iOS expands what you can do with Apple Wallet,… [+14572 chars]"
+    },
+    {
+      "source": { "id": "business-insider", "name": "Business Insider" },
+      "author": "Aki Ito",
+      "title": "AI-driven cataclysm could rock the job market: top economist",
+      "description": "How Daron Acemoglu, one of the world's most respected experts on the economic effects of technology, learned to start worrying and fear AI.",
+      "url": "http://www.businessinsider.com/ai-chatgpt-replace-jobs-unemployment-salaries-technology-economist-daron-acemoglu-2023-9",
+      "urlToImage": "https://i.insider.com/64ff6e154b33390019f0b820?width=1200&format=jpeg",
+      "publishedAt": "2023-09-18T10:00:01Z",
+      "content": "Sure, there have been a few nutjobs out there who think AI will wipe out the human race. But ever since ChatGPT's explosive emergence last winter, the bigger concern for most of us has been whether t… [+30070 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider-uk",
+        "name": "Business Insider (UK)"
+      },
+      "author": "Aki Ito",
+      "title": "AI-driven cataclysm could rock the job market: top economist",
+      "description": "How Daron Acemoglu, one of the world's most respected experts on the economic effects of technology, learned to start worrying and fear AI.",
+      "url": "http://uk.businessinsider.com/ai-chatgpt-replace-jobs-unemployment-salaries-technology-economist-daron-acemoglu-2023-9",
+      "urlToImage": "https://i.insider.com/64ff6e154b33390019f0b820?width=1200&format=jpeg",
+      "publishedAt": "2023-09-18T10:00:01Z",
+      "content": "Sure, there have been a few nutjobs out there who think AI will wipe out the human race. But ever since ChatGPT's explosive emergence last winter, the bigger concern for most of us has been whether t… [+30070 chars]"
+    },
+    {
+      "source": { "id": "next-big-future", "name": "Next Big Future" },
+      "author": "Brian Wang",
+      "title": "Tesla Breakthrough 3D Printing With Sand For Single Piece Casting of Complex Underbody | NextBigFuture.com",
+      "description": "Reuters reports that Tesla has combined a series of innovations to make a technological breakthrough for single casting of the complex underbody of the car.",
+      "url": "https://www.nextbigfuture.com/2023/09/tesla-breakthrough-3d-printing-with-sand-for-single-piece-casting-of-complex-underbody.html",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2023/09/Screen-Shot-2023-09-15-at-2.32.38-PM.jpg",
+      "publishedAt": "2023-09-15T21:44:57Z",
+      "content": "Reuters reports that Tesla has combined a series of innovations to make a technological breakthrough for single casting of the complex underbody of the car. Tesla already can gigacast the front and t… [+3339 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Alex Wilhelm and Miranda Halpern",
+      "title": "SailPoint cracks $600M ARR a year into private ownership | TechCrunch",
+      "description": "The final earnings report that SailPoint disclosed before it was taken private detailed its Q2 2022 results, including revenue of $134.3M.",
+      "url": "https://techcrunch.com/2023/09/19/sailpoint-600m-arr/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/GettyImages-1426617253.jpg?resize=1200,835",
+      "publishedAt": "2023-09-15T19:13:47Z",
+      "content": "While IPOs are back and TechCrunch+s eyes are peeled for new S-1 filings and early indications of how much public-market demand there will be for upcoming debuts, wed be remiss to forget companies th… [+2172 chars]"
+    },
+    {
+      "source": { "id": "techcrunch", "name": "TechCrunch" },
+      "author": "Kyle Wiggers",
+      "title": "ZayZoon, which lends employees money for a fee, raises $34.5M | TechCrunch",
+      "description": "ZayZoon, an earned wage access startup that lends employees money between paychecks for a fee, has raised $34.5M in venture capital.",
+      "url": "https://techcrunch.com/2023/09/19/zayzoon-which-lends-employees-money-for-a-fee-raises-34-5m/",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2023/06/money-grab-bryce.jpg?resize=1200,675",
+      "publishedAt": "2023-09-01T08:17:07Z",
+      "content": "ZayZoon, a fintech firm that got its start charging employees $5 to get paid sooner, has raised $34.5 million in a Series B round co-led by Framework, EDC with participation from ATB Financial.\r\nCEO … [+5004 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider-uk",
+        "name": "Business Insider (UK)"
+      },
+      "author": null,
+      "title": "Tech Insider",
+      "description": "What You Need To Know About Tech Insider",
+      "url": "http://uk.businessinsider.com/sai",
+      "urlToImage": "https://www.businessinsider.com/public/assets/INSIDER/US/og-image-logo-social.png",
+      "publishedAt": "2023-08-23T15:52:28.8368783Z",
+      "content": "Tech\r\n2023-08-22T15:24:04Z\r\nShopify alters access to merchant success managers, impacting 16,000 of its Plus merchants.\r\nDeals\r\n2023-08-23T15:34:43Z\r\nThe best TV deals right now feature 4K and 8K Mod… [+7431 chars]"
+    }
+  ]
+}
