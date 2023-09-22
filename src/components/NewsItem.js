@@ -7,13 +7,13 @@ export class NewsItem extends Component {
     return (
       <div className="my-3">
         <div className="card" style={{width: "18 rem"}}>
-          <img src={urlToImage} className="card-img-top" alt="..." />
+          <img src={!urlToImage?"https://static.vecteezy.com/system/resources/thumbnails/004/216/831/small/3d-world-news-background-loop-free-video.jpg":urlToImage} className="card-img-top" alt="..." />
           <div className="card-body">
             <h5 className="card-title">{title}....</h5>
             <p className="card-text">
               {description}....
             </p>
-            <a href={url} target="_blank" className="btn btn-primary">
+            <a rel="noreferrer" href={url} target="_blank" className="btn btn-dark">
               Read More
             </a>
           </div>
