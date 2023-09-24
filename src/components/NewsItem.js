@@ -6,7 +6,7 @@ export class NewsItem extends Component {
     let {title, description, urlToImage, url} = this.props;
     return (
       <div className="my-3">
-        <div className="card" style={{width: "18 rem"}}>
+        <div className="card">
           <img src={!urlToImage?"https://static.vecteezy.com/system/resources/thumbnails/004/216/831/small/3d-world-news-background-loop-free-video.jpg":urlToImage} className="card-img-top" alt="..." />
           <div className="card-body">
             <h5 className="card-title">{title}....</h5>
