@@ -19,7 +19,7 @@ export class NewsItem extends Component {
             <h5 className="card-title">{title}....</h5>
             <p className="card-text">
               <small className="text-muted">
-                On {new Date(date).toUTCString()} by {author ? author : "unknown author"}
+                On {new Date(date).toUTCString()} by {author ? author : "Unknown Author"}
               </small>
             </p>
             <p className="card-text">{description}....</p>
