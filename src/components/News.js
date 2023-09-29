@@ -89,11 +89,11 @@ export class News extends Component {
                       author={element.author}
                       date={element.publishedAt}
                       title={element.title ? element.title.slice(0, 45) : ""}
-                    description={
-                      element.description
-                        ? element.description.slice(0, 88)
-                        : ""
-                    }
+                      description={
+                        element.description
+                          ? element.description.slice(0, 88)
+                          : ""
+                      }
                       urlToImage={element.urlToImage}
                       url={element.url}
                     />
